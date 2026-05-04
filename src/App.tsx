@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 const LOGO = "https://i.imgur.com/T0JGkj4.png";
 const SUPABASE_URL = "https://wcrzzoigetsnjgcmbvqr.supabase.co";
