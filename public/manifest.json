@@ -1,0 +1,20 @@
+{
+  "name": "OBO Arena Manager",
+  "short_name": "OBO Arena",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#063B24",
+  "theme_color": "#007A3D",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/T0JGkj4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/T0JGkj4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
